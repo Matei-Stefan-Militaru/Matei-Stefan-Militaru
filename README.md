@@ -16,3 +16,16 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matei-Stefan-Militaru&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matei-Stefan-Militaru&layout=compact&theme=radical)
 
+---
+
+## 🛠️ Skills
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🌍 Languages
+
+- English
+- Spanish
+- Romanian
