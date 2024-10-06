@@ -26,6 +26,6 @@
 
 ## 🌍 Languages
 
-- English
-- Spanish
-- Romanian
+![English](https://img.shields.io/badge/English-4B8BBE?style=flat-square&logo=google-chrome&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-EAB8C9?style=flat-square&logo=google-chrome&logoColor=white)
+![Other Language](https://img.shields.io/badge/Other_Language-FFD43B?style=flat-square&logo=python&logoColor=black)
