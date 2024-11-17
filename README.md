@@ -1,12 +1,28 @@
 ## 💻 Tech Stack
+<div>
+  <a href="#" target="_blank">
+    <img alt="C" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="Java" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="SQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="PHP" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="HTML" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="CSS" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  </a>
+</div>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-DA572B?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
 ---
