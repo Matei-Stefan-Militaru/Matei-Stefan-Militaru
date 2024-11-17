@@ -18,8 +18,8 @@
 
 ### Bases de Datos
 <div>
-  <a href="https://www.sql.org/" target="_blank">
-    <img alt="SQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   </a>
 </div>
 
