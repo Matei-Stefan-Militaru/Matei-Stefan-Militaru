@@ -1,24 +1,34 @@
 ## 💻 Tech Stack
+
+### Lenguajes
 <div>
-  <a href="#" target="_blank">
+  <a href="https://www.cprogramming.com/" target="_blank">
     <img alt="C" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.java.com/" target="_blank">
     <img alt="Java" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   </a>
-  <a href="#" target="_blank">
-    <img alt="SQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  </a>
-  <a href="#" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank">
     <img alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   </a>
-  <a href="#" target="_blank">
+</div>
+
+### Bases de Datos
+<div>
+  <a href="https://www.sql.org/" target="_blank">
+    <img alt="SQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" />
+  </a>
+</div>
+
+### Herramientas de Desarrollo Web
+<div>
+  <a href="https://html.spec.whatwg.org/" target="_blank">
     <img alt="HTML" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img alt="CSS" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   </a>
 </div>
