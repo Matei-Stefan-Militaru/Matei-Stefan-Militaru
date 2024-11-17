@@ -1,6 +1,6 @@
 ## 💻 Tech Stack
 
-### Lenguajes
+### Languages
 <div>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img alt="C" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
@@ -16,14 +16,14 @@
   </a>
 </div>
 
-### Bases de Datos
+### Databases 
 <div>
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   </a>
 </div>
 
-### Herramientas de Desarrollo Web
+### Web Development Tools
 <div>
   <a href="https://html.spec.whatwg.org/" target="_blank">
     <img alt="HTML" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
