@@ -22,7 +22,7 @@
 ### My Trophies
 
 <div>
-  <img src='https://github-profile-trophy.vercel.app/?username=SirNoob97&column=-1&no-frame=true&theme=gruvbox'>
+  <img src='https://github-profile-trophy.vercel.app/?username=Matei-Stefan-Militaru&column=-1&no-frame=true&theme=gruvbox'>
 </div>
 
 
