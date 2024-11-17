@@ -62,6 +62,6 @@
 
 ## 🌍 Languages
 
-- 🇺🇸 English
-- 🇪🇸 Spanish
-- 🇷🇴 Romanian
+- 🇺🇸 English - C1
+- 🇪🇸 Spanish - C1
+- 🇷🇴 Romanian - Native
