@@ -41,7 +41,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matei-Stefan-Militaru&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matei-Stefan-Militaru&layout=compact&theme=radical)
-![All Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&langs_count=100&layout=compact&theme=radical)
+![All Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matei-Stefan-Militaru&langs_count=100&layout=compact&theme=radical)
 
 ---
 
