@@ -35,7 +35,7 @@
 
 
 
-## 42 Progress
+## 42 Barcelona Progress
 
 [![mmilitiar's 42 stats](https://badge.mediaplus.ma/darkblue/mmilitar)](https://github.com/oakoudad/badge42)
 
