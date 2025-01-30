@@ -35,19 +35,17 @@
 
 
 
----
 ## 42 Progress
 
 [![mmilitiar's 42 stats](https://badge.mediaplus.ma/darkblue/mmilitar)](https://github.com/oakoudad/badge42)
 
----
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matei-Stefan-Militaru&show_icons=true&count_private=true&theme=radical)
 ![All Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matei-Stefan-Militaru&langs_count=100&layout=compact&theme=radical)
 
----
 
 ### My Trophies
 
@@ -56,13 +54,12 @@
 </div>
 
 
----
 
 ## 🛠️ Skills
 
 ![Excel Expert](https://img.shields.io/badge/Excel%20Expert-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
----
+
 
 ## 🌍 Languages
 
